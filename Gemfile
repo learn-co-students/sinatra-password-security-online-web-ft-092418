@@ -5,7 +5,7 @@ gem "sinatra"
 gem "activerecord", '<= 5.1'
 gem "sinatra-activerecord"
 gem "rake"
-gem "bcrypt"
+gem "bcrypt" #<<------------------------ATTN
 gem "rspec"
 gem "require_all"
 gem "capybara"
